@@ -1,3 +1,7 @@
+# USER ADD
+*.sln
+.vs/
+src/*.pyproj
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
